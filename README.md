@@ -4,7 +4,7 @@
 This portfolio was built as part of the PLP Academy Hackathon (July 2025 Cohort).
 
 ## 🌐 Live Site
-[Click here to view](https://USERNAME.github.io/oge-portfolio/)
+[Click here to view](https://tonia001-stack.github.io/My-Portfolio/)
 
 ## Tech Used
 - HTML5
